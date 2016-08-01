@@ -2,7 +2,7 @@
 
 ##Steps to run
 
-* Usage: run <Number of people in circle> <Factor by which people are to be eliminated>
+* Usage: run [Number of people in circle] [Factor by which people are to be eliminated]
 
 * Invoke by typing in the above format in the SBT console.
 For instance -
