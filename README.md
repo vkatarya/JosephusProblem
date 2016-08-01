@@ -6,6 +6,7 @@
 
 * Invoke by typing in the above format in the SBT console.
 For instance -
+
 >run 3 2
 
 >run wrong input
