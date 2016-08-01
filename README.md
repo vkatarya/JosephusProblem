@@ -15,5 +15,8 @@ For instance -
 
 >run 6778 23
 
+* To run all the tests, use  the SBT console and type in
+
+> test
 
 * The Specs2 test covers both, the iterative and the recursive method unit testing
